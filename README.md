@@ -55,7 +55,7 @@ According to the bankruptcy filing, we see a lot of "other expenses" that weren'
  
 Gathering all this information, it may have been a better outcome if Factom it went under receivership, with FastForward taking possession of the company's assets and intellectual property. I believe the executives are to be blamed for some, or perhaps most, of the financial and business strategy missteps that led to Factom's demise.
 
-Again, if I had the power to pivot Factom back to success, I would fire both executives and bring in a team from FastForward to lead the company. We would avoid the Real Estate market and continue to search for and obtain clients from government and philanthropic entities, since the two largest revenue generating clients were under this umbrella.
+Again, if I had the power to pivot Factom back to success, I would fire both executives, bring in a team from FastForward to lead the company, and avoid the Real Estate market. We would search for and obtain clients from government and philanthropic entities, since the two largest revenue generating clients were under this umbrella.
 
 
 ## Addendum:
