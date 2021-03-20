@@ -47,7 +47,7 @@ Factom is performing at a minimal level, receiving its revenue from pre-bankrupt
 
 ## Recommendations: 
 
-If I were to advise the company, I would not focus on expanding additional products or services. The topic would not be how to thrive, but to survive. From my experience as an accountant, it appears the executives received too much compensation. They were asking for Series B funding, and their total funding was $15.5M; an appropriate, average salary for a CEO in this situation would be $160,000. (19) 
+If I were to advise the company, I would not focus on expanding additional products or services. The topic would not be how to thrive, but to survive. From my experience as an accountant, it appears the executives received too much compensation. Factom was asking for Series B funding, and their total funding was $15.5M; an appropriate, average salary for a CEO in this situation would be $160,000. (19) 
 
 According to the bankruptcy filing, we see a lot of "other expenses" that weren't specified. (20) Also, the statement from FastForward, Factom's largest stakeholder, was concerning:
 
